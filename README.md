@@ -10,6 +10,6 @@ How it works.
 
 4. Inititate the algorithm buy running the following commands one after another.
 
-a. w = new WordleBreaker();
+w = new WordleBreaker();
 
-b. w.break();
+w.break();
