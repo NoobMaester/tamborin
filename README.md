@@ -1,4 +1,4 @@
-# Wordle solver
+# a script that solves the WORDLE game
 
 How it works.
 
