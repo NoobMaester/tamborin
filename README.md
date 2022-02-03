@@ -1,4 +1,4 @@
-# Wordle
+# Wordle solver
 
 How it works.
 
@@ -8,7 +8,7 @@ How it works.
 
 3. Copy paste the code of main.js onto the console, do not hit enter just yet.
 
-4. Inititate the algorithm buy running the following commands one after another.
+4. Inititate the algorithm by running the following commands one after another.
 
 w = new WordleBreaker();
 
